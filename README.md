@@ -11,4 +11,5 @@ Compile:
 * Create a ```build``` folder
 ```bash
 make
-./PDI_example01 ../yourimage.jpg```
+./PDI_example01 ../yourimage.jpg
+```
